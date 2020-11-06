@@ -1,0 +1,22 @@
+.is-start {
+    background-color: greenyellow;
+}
+
+.is-end {
+    background-color: red;
+}
+
+.is-neighbour { 
+    background-color: cyan;
+}
+
+.is-path { 
+    background-color: black;
+}
+
+.node-square {
+    outline: 2.5px solid black;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+}
